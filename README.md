@@ -1,6 +1,6 @@
 # Miracle-Day-Generator
 
-![](images/miracle.png)
+![](images/generator.png)
 
 See what's yours miracle day for the next year by clicking the button.
 
